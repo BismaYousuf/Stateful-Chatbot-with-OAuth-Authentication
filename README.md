@@ -1,7 +1,7 @@
 # Stateful Chatbot with OAuth Authentication
 
 ## 🌟 About the Project
-This **Stateful Chatbot** was built as part of the **Ramadan Coding Nights** initiative, developed by **Sr AshabirB**. It integrates **OAuth authentication** and utilizes **Google Generative AI (Gemini-2 Flash)** to maintain conversation history and provide intelligent responses.
+This **Stateful Chatbot** was built as part of the **Ramadan Coding Nights** initiative It integrates **OAuth authentication** and utilizes **Google Generative AI (Gemini-2 Flash)** to maintain conversation history and provide intelligent responses.
 
 ## 🚀 Features
 - ✅ **Stateful Conversation Management** – Maintains chat history
