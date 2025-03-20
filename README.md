@@ -7,11 +7,10 @@ This **Stateful Chatbot** was built as part of the **Ramadan Coding Nights** ini
 - ✅ **Stateful Conversation Management** – Maintains chat history
 - ✅ **OAuth Authentication** – Secure login via GitHub
 - ✅ **Google Generative AI** – AI-powered responses
-- ✅ **FastAPI & Chainlit** – Lightweight and efficient backend
+- ✅ **Chainlit** – Lightweight and efficient backend
 
 ## 🛠️ Technologies Used
 - **Python**
-- **FastAPI**
 - **Chainlit**
 - **OAuth Authentication (GitHub)**
 - **Google Generative AI (Gemini-2 Flash)**
